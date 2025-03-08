@@ -5,6 +5,7 @@ This is a simple card game implemented in C# targeting .NET 8. The game involves
 ## Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- Visual Studio (any version compatible with .NET 8)
 
 ## Getting Started
 
@@ -30,13 +31,6 @@ dotnet run
 - `Game/Game.cs`: Contains the `Game` class which manages the game logic.
 - `Game/Player.cs`: Contains the `Player` class which represents a player in the game.
 - `Helpers/Calculator.cs`: Contains helper methods for calculating card and suit points.
-
-### How to Play
-
-1. The game starts by creating a deck of cards and shuffling them.
-2. Six players are created, and each player is dealt 5 cards.
-3. The total value of each player's hand is calculated.
-4. The player with the highest total value wins. In case of a tie, the suit points are used to determine the winner.
 
 ### Example Output
 
