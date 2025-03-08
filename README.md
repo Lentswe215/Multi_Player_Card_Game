@@ -42,7 +42,7 @@ Player 1's hand:
 - 10 of Clubs
 - Q of Hearts
 - 5 of Clubs
-Player 1's hand total: 50
+* Player 1's hand total: 50
 ----------------------------------------------------------------------------------------
 Player 2's hand:
 - 10 of Diamonds
@@ -50,7 +50,7 @@ Player 2's hand:
 - 2 of Diamonds
 - J of Diamonds
 - 8 of Hearts
-Player 2's hand total: 44
+* Player 2's hand total: 44
 ----------------------------------------------------------------------------------------
 Player 3's hand:
 - 9 of Diamonds
@@ -58,7 +58,7 @@ Player 3's hand:
 - 4 of Hearts
 - 5 of Hearts
 - 6 of Spades
-Player 3's hand total: 34
+* Player 3's hand total: 34
 ----------------------------------------------------------------------------------------
 Player 4's hand:
 - 7 of Clubs
@@ -66,7 +66,7 @@ Player 4's hand:
 - K of Hearts
 - J of Spades
 - 2 of Hearts
-Player 4's hand total: 44
+* Player 4's hand total: 44
 ----------------------------------------------------------------------------------------
 Player 5's hand:
 - 6 of Hearts
@@ -74,7 +74,7 @@ Player 5's hand:
 - 4 of Spades
 - 8 of Diamonds
 - 3 of Diamonds
-Player 5's hand total: 32
+* Player 5's hand total: 32
 ----------------------------------------------------------------------------------------
 Player 6's hand:
 - 7 of Spades
@@ -82,7 +82,7 @@ Player 6's hand:
 - J of Clubs
 - 9 of Spades
 - 8 of Clubs
-Player 6's hand total: 44
+* Player 6's hand total: 44
 ----------------------------------------------------------------------------------------
 * Player 1 wins with a hand total of 50! *
 
